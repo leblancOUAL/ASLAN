@@ -1,0 +1,55 @@
+# General Vacuum Info
+
+- Turbo pump
+    - Pfeiffer 300 l/s turbo
+    - 6" CF inlet
+    - KF 16 outlet
+- Vacuum Measurement
+    - Ion Gauge Cable
+        - minimum length for ion gauge cable is 16' 
+        - (25' is the available length from InstruTech)
+        - Quote requested 2023-12-22
+    - 2 CG gauges
+        - At roughing pump inlet
+        - At turbo pump outlet
+- fore-line/roughing pump
+    - Needed
+    - Probably RV-18 or whatever David ordered
+    - Need to drill holes in the swinger to route the roughing line
+    - Use 25mm/1" ID roughing vacuum line.
+        - Available from FL Tanks in Marietta at approximately $1.50/ft (100
+          ft/roll just order the whole roll)
+        - sales@fltanks.com
+    - KF25 to 1" adapters
+        - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lf
+        - $17.75
+        - qty 2
+    - KF25 to KF16 adapter
+        - Lesker
+            - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25xqf16c
+            - $67.35
+        - Amazon
+            - https://www.amazon.com/dp/B01N1QG5VF
+            - $17
+        - LoCo Science
+            - https://locoscience.com/products/kf25-to-kf16-flange-conical-reducer-vacuum-adapter
+            - $25
+    - KF25 to KF16 reducing Tee
+        - Lesker
+            - https://www.lesker.com/flanges/fittings-kf-tees/part/qf25x16t
+            - $132.85
+            - Check ebay as well
+        - LDS Vacuum Shopper
+             - https://www.ldsvacuumshopper.com/qftoqfredtee.html
+             - $61
+        - LoCo Science
+            - https://locoscience.com/products/kf25-to-kf16-vacuum-reduced-tee
+            - $30
+
+- Venting
+    - N<sub>2</sub>
+    - Copper line along swinger
+    - Copper at Turbo?
+    - polyethylene at the rotating point
+    - Use slow vent valve?
+    - Do we need an option for faster venting for solid targets?
