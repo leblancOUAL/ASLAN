@@ -35,9 +35,15 @@
             - ~~https://www.lowes.com/pd/IDEAL-1-3-8-in-Carbide-Tipped-Arbored-Hole-Saw/5002053771~~
             - ~~https://www.homedepot.com/p/Klein-Tools-1-3-8-in-Carbide-Hole-Cutter-31860/203499103~~
     - KF25 to 1" adapters
-        - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lf
-        - $17.75
         - qty 2
+        - Lesker - SS
+            - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lf
+            - $17.75
+        - Lesker - Aluminum
+            - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lfa
+            - $ 14.25
+        - LoCo Science - SS
+            - https://locoscience.com/collections/vacuum-fittings-1/products/kf25-flange-to-1-inch-hose-barb-adapter
     - KF25 to KF16 adapter
         - Lesker
             - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25xqf16c
