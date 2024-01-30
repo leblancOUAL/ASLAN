@@ -2,8 +2,17 @@
 
 - Turbo pump
     - Pfeiffer 300 l/s turbo
+    - Model: HiPace 300
+    - P/N: PM P03 901
+    - S/N: 17022656
     - 6" CF inlet
     - KF 16 outlet
+    - Readout and PSU match with the existing swinger turbo
+    - https://www.pfeiffer-vacuum.com/en/products/vacuum-generation/turbopumps/hybrid-bearing/hipace-300/4501/hipace-300-with-tc-400-dn-100-cf-f
+    - Should we get an inlet screen?
+    - Venting valve has the wrong electrical connection.  Need to investigate
+      further.  
+    
 - Vacuum Measurement
     - Ion Gauge Cable
         - minimum length for ion gauge cable is 16' 
@@ -15,11 +24,16 @@
 - fore-line/roughing pump
     - Needed
     - Probably RV-18 or whatever David ordered
-    - Need to drill holes in the swinger to route the roughing line
+    - ~~Need to drill holes in the swinger to route the roughing line~~
+    - Route roughing line along beam-left side of swinger
+    - Would like vacuum safety valve
     - Use 25mm/1" ID roughing vacuum line.
         - Available from FL Tanks in Marietta at approximately $1.50/ft (100
           ft/roll just order the whole roll)
         - sales@fltanks.com
+        - ~~Hole Saw~~
+            - ~~https://www.lowes.com/pd/IDEAL-1-3-8-in-Carbide-Tipped-Arbored-Hole-Saw/5002053771~~
+            - ~~https://www.homedepot.com/p/Klein-Tools-1-3-8-in-Carbide-Hole-Cutter-31860/203499103~~
     - KF25 to 1" adapters
         - https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lf
         - $17.75
