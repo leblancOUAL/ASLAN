@@ -9,7 +9,7 @@
 | CF0600S2    | 2          | 0            | 2          | Y      | $555  | Not my first choice<br> Has 2 larger ports only
 | CF0600A3    | 3          | 0            | 3          | N      | $1050 |Angled standoffs
 | CF0600X4    | 4          | 2            | 2          | Y      | $785  |Might be OK, might be awkward<br> Pros: 4 ports 2 sizes<br> cons: standoffs
-<mark>| CF0600P4    | 4          | 0            | 4          | N      | $1050 |4 ports, low profile<br> easiest to install connectors</mark>
+| CF0600P4    | 4          | 0            | 4          | N      | $1050 |4 ports, low profile<br> easiest to install connectors
 | CF0600S4    | 4          | 0            | 4          | Y      | $625  |4 ports on standoffs
 | CF0600A7    | 7          | 6            | 1          | Y      | $1550 |All ports on standoffs<br> Very versatile, in stock, expensive
 
